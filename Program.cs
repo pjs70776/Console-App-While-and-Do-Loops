@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Console_App_While_and_Do_Loops
 {
-    internal class Program
+    class WhileLoop  //change Program to WhileLoop
     {
         static void Main(string[] args)
             //Intro statement and asking for user input
