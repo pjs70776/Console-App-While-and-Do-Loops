@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console App While and Do Loops", "Console App While and Do Loops.csproj", "{842FBC85-2797-4A58-BA57-EC42775D9777}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{842FBC85-2797-4A58-BA57-EC42775D9777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842FBC85-2797-4A58-BA57-EC42775D9777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842FBC85-2797-4A58-BA57-EC42775D9777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842FBC85-2797-4A58-BA57-EC42775D9777}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB37F2B9-3313-4EA7-8BDA-462E82709306}
+	EndGlobalSection
+EndGlobal
